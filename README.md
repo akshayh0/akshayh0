@@ -48,7 +48,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshayh0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img alt="GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshayh0 />
   <img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=akshayh0&theme=tokyonight&hide_border=true" />
 </p>
 
