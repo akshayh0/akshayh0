@@ -48,8 +48,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshayh0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayh0&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshayh0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=akshayh0&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
