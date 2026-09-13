@@ -50,10 +50,10 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    alt="GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=akshayh0&show_icons=true&theme=tokyonight&hide_border=true"
-  />
+<img
+  alt="GitHub stats"
+  src="https://github-readme-stats-jade-five-97.vercel.app/api?username=akshayh0&show_icons=true&theme=tokyonight&hide_border=true"
+/>
 
   <img
     alt="GitHub streak stats"
