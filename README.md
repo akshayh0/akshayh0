@@ -50,14 +50,14 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img
-  alt="GitHub stats"
-  src="https://github-readme-stats-jade-five-97.vercel.app/api?username=akshayh0&show_icons=true&theme=tokyonight&hide_border=true"
-/>
-
   <img
-    alt="GitHub streak stats"
+    src="https://github-readme-stats-jade-five-97.vercel.app/api?username=akshayh0&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Akshay H's GitHub Stats"
+  />
+  <br />
+  <img
     src="https://streak-stats.demolab.com?user=akshayh0&theme=tokyonight&hide_border=true"
+    alt="Akshay H's GitHub Streak"
   />
 </p>
 
